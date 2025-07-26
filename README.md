@@ -47,10 +47,10 @@ Financial institutions need an efficient way to analyze loan performance and bor
 **Goal of the Dashboard**<br>
 To develop a Tableau dashboard that:
 
-    - Tracks key lending metrics over time.<br>
-    - Identifies the proportion of good and bad loans.<br>
-    - Analyzes loan purposes, repayment patterns, and borrower characteristics.<br>
-    - Highlights state-wise lending behavior and loan term preferences.
+  - Tracks key lending metrics over time.<br>
+  - Identifies the proportion of good and bad loans.<br>
+  - Analyzes loan purposes, repayment patterns, and borrower characteristics.<br>
+  - Highlights state-wise lending behavior and loan term preferences.
 
 ## Key Insights
   - Debt Consolidation is the most common loan purpose (~18.2K applications).
@@ -60,3 +60,6 @@ To develop a Tableau dashboard that:
   - Renters applied slightly more than mortgage holders.<br>
   - People with more than 10 years of work history made the maximum loan applications.<br>
   - Slight linear growth in number of loan applications every following month.
+
+## Live Dashboard / Report
+https://public.tableau.com/views/BankLoanAnalysisDashboard_17535083405840/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
