@@ -41,10 +41,10 @@ The dashboard was developed using the following tools:
 loan_status, loan_amount, total_payment, issue_date, int_rate, dti, purpose, term, grade, home_ownership, emp_length, address_state, etc.
 
 ## Features / Highlights
-**- Business Problem**
+**Business Problem**<br>
 Financial institutions need an efficient way to analyze loan performance and borrower behavior across a large number of applications. Identifying default trends, good vs bad loans, and understanding funding performance is essential for risk management and growth.
 
-**- Goal of the Dashboard**
+**Goal of the Dashboard**<br>
 To develop a Tableau dashboard that:
 
   - Tracks key lending metrics over time.<br>
