@@ -35,7 +35,7 @@ The dashboard was developed using the following tools:
 🧮 SQL Queries - Used to prepare calculated metrics later replicated in Tableau.  
 
 ## Data Source
-- File Name: (https://github.com/dishapatare/Bank-Loan-Analysis-Project/blob/main/financial_loan.csv)
+- File Name: (./financial_loan.csv)
 - Total Records: 38,576 loan applications
 - Fields Include:
 loan_status, loan_amount, total_payment, issue_date, int_rate, dti, purpose, term, grade, home_ownership, emp_length, address_state, etc.
