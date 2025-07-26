@@ -67,7 +67,9 @@ https://public.tableau.com/views/BankLoanAnalysisDashboard_17535083405840/SUMMAR
 ## Screenshots of Dashboard / Report
 ### SUMMARY
 <img width="1999" height="1124" alt="SUMMARY" src="https://github.com/user-attachments/assets/59fb0002-b960-4b89-aea4-8e1a2718290e" />
+
 ### OVERVIEW
 <img width="1999" height="1124" alt="OVERVIEW" src="https://github.com/user-attachments/assets/97a88489-23fd-4ba1-b611-18edd61ec1b4" />
+
 ### DETAILS
 <img width="1999" height="1124" alt="DETAILS" src="https://github.com/user-attachments/assets/69d01fbf-1078-407d-af66-8a408481543e" />
