@@ -4,7 +4,7 @@ An interactive Tableau dashboard built to visualize and analyze bank loan perfor
 ## Purpose
 This project provides an end-to-end analysis of a bank's loan portfolio using Tableau. It helps identify trends in loan issuance, repayment behavior, interest rates, defaults, and more. The dashboard supports financial institutions in understanding customer risk profiles and improving lending strategies through interactive visual insights.
 
-## Requirements from the Stakeholders
+## Requirements
 1. **Key Performance Indicators**
     - Total Loan Applications (Month to Date, Month over Month)
     - Total Funded Amount (Month to Date, Month over Month)
@@ -47,7 +47,16 @@ Financial institutions need an efficient way to analyze loan performance and bor
 **Goal of the Dashboard**<br>
 To develop a Tableau dashboard that:
 
-  - Tracks key lending metrics over time.<br>
-  - Identifies the proportion of good and bad loans.<br>
-  - Analyzes loan purposes, repayment patterns, and borrower characteristics.<br>
-  - Highlights state-wise lending behavior and loan term preferences.
+    - Tracks key lending metrics over time.<br>
+    - Identifies the proportion of good and bad loans.<br>
+    - Analyzes loan purposes, repayment patterns, and borrower characteristics.<br>
+    - Highlights state-wise lending behavior and loan term preferences.
+
+## Key Insights
+  - Debt Consolidation is the most common loan purpose (~18.2K applications).
+  - Majority loans are for a 36-month term (73.2%).<br>
+  - California, New York and Florida have the highest number of applications.<br>
+  - Good loans (fully paid/current) dominate the dataset, indicating strong repayment behavior.<br>
+  - Renters applied slightly more than mortgage holders.<br>
+  - People with more than 10 years of work history made the maximum loan applications.<br>
+  - Slight linear growth in number of loan applications every following month.
