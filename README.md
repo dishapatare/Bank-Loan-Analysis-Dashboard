@@ -27,12 +27,12 @@ This project provides an end-to-end analysis of a bank's loan portfolio using Ta
     - Home Ownership Analysis
 
 ## Tech Stack
-The dashboard was developed using the following tools:\n
+The dashboard was developed using the following tools:
 
-📊 Tableau Public – Main data visualization platform used for building interactive dashboards.
-📋 Microsoft Excel / CSV – Source of raw loan data for import into Tableau.
-🔍 Calculated Fields in Tableau – Used for Month-To-Date (MTD), Good/Bad Loan classification, Avg Interest, DTI, and KPIs.
-🧮 SQL Queries - Used to prepare calculated metrics later replicated in Tableau.
+📊 Tableau Public – Main data visualization platform used for building interactive dashboards.  
+📋 Microsoft Excel / CSV – Source of raw loan data for import into Tableau.  
+🔍 Calculated Fields in Tableau – Used for Month-To-Date (MTD), Good/Bad Loan classification, Avg Interest, DTI, and KPIs.  
+🧮 SQL Queries - Used to prepare calculated metrics later replicated in Tableau.  
 
 ## Data Source
 - File Name: financial_loan.csv
