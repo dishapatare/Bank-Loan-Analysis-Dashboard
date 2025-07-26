@@ -35,7 +35,7 @@ The dashboard was developed using the following tools:
 🧮 SQL Queries - Used to prepare calculated metrics later replicated in Tableau.  
 
 ## Data Source
-- CSV File:[financial_loan.csv](./financial_loan.csv)
+- CSV File: [financial_loan.csv](./financial_loan.csv)
 - Total Records: 38,576 loan applications
 - Fields Include:
 loan_status, loan_amount, total_payment, issue_date, int_rate, dti, purpose, term, grade, home_ownership, emp_length, address_state, etc.
@@ -63,3 +63,5 @@ To develop a Tableau dashboard that:
 
 ## Live Dashboard / Report
 https://public.tableau.com/views/BankLoanAnalysisDashboard_17535083405840/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Screenshots of Dashboard / Report
