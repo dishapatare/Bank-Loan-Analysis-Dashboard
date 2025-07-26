@@ -65,3 +65,4 @@ To develop a Tableau dashboard that:
 https://public.tableau.com/views/BankLoanAnalysisDashboard_17535083405840/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Screenshots of Dashboard / Report
+![dash1]<img width="1999" height="1124" alt="SUMMARY" src="https://github.com/user-attachments/assets/59fb0002-b960-4b89-aea4-8e1a2718290e" />
